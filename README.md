@@ -5,4 +5,4 @@ Extracted, preprocessed data and performed feature selection using correlation a
 
 Implemented 6 machine learning models, debugged parameters and compared the performances.
 
-Explained the best performing model Random Forest (𝑅2: 0.87) using SHAP.
+Explained the best performing model Random Forest ($𝑅^2$: 0.87) using SHAP.
